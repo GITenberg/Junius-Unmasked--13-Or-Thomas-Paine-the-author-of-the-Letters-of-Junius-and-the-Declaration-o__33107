@@ -1,0 +1,30 @@
+_repo: Junius-Unmasked--13-Or-Thomas-Paine-the-author-of-the-Letters-of-Junius-and-the-Declaration-o__33107
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Moody, Joel
+    birthdate: 1834
+    deathdate: 1914
+    gutenberg_agent_id: '36209'
+    url: http://www.gutenberg.org/2009/agents/36209
+description: ''
+gutenberg_issued: '2010-07-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33107'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'Paine, Thomas, 1737-1809'
+- !lcsh 'Junius, active 18th century'
+- !lcsh 'Francis, Philip, 1740-1818'
+- !lcsh 'United States. Declaration of Independence'
+title: "Junius Unmasked\r\nOr, Thomas Paine the author of the Letters of Junius and\
+  \ the Declaration of Independence"
+url: http://www.gutenberg.org/ebooks/33107
