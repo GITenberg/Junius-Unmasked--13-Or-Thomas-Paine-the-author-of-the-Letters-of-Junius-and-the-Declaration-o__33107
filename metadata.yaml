@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '36209'
     url: http://www.gutenberg.org/2009/agents/36209
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33107#Junius-Unmasked--13-Or-Thomas-Paine-the-author-of-the-Letters-of-Junius-and-the-Declaration-o_
 gutenberg_issued: '2010-07-07'
 gutenberg_type: Text
 identifiers:
